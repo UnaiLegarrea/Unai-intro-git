@@ -1,1 +1,1 @@
-La clase tiene las paredes de color blanco y naranja
+La clase tiene las paredes de color blanco
